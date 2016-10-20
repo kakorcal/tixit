@@ -1,0 +1,7 @@
+Part 1. Create a page that creates two sections of the page that effectively "message" each other.
+
+Each section should have an input, which when you press enter, sends a message to the other section and displays that message in their own section with the label "Me". The other section should display that message with the label "You". Note that no server-activity is happening - this is all local within your browser.
+
+Use whatever tools, modules, or resources you would normally use to do something like this. 
+
+Part 2. Build the same page, but this time do it with Gem.js ( https://github.com/Tixit/gem.js ).
